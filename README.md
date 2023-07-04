@@ -3,6 +3,7 @@
 # About Me
 - 😜 I'm Jonas Mario Kunzler, a Full Stack Developer from Brazil
 - 👨‍💻 I spend my time developing projects that solve people's everyday problems
+- 🤔 The vast majority of my projects are private, as I want to monetize them in the future
 - 🔭 I'm currently working on freelance projects with NextJS 13.2
 
 # Tech Stack
